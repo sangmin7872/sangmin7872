@@ -1,3 +1,2 @@
-This is my git test
-
+This is my git test.
 my name is SangminLee.
